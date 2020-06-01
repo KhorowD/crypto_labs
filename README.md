@@ -1,2 +1,2 @@
 # crypto_labs
-labs for Theoretical Methods in Cryptography 
+laboratory work for Theoretical Methods in Cryptography
